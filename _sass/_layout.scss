@@ -2,8 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	font-size: 26px;
+    // border-top: 5px solid $brand-color;
+    // border-bottom: 1px solid $brand-color;
+	// background-color: $brand-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -11,15 +15,16 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 40px;
+	font-weight: 500;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     margin-bottom: 0;
     float: left;
+	color: $green-color;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
+    &:hover {
+        color: $pink-color;
     }
 }
 
@@ -32,8 +37,12 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $green-color;
         line-height: $base-line-height;
+		
+		&:hover {
+		   color: $pink-color;
+		}
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -92,7 +101,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    //border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -198,8 +207,8 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-size: 60px;
+    letter-spacing: 0px;
     line-height: 1;
 
     @include media-query($on-laptop) {
@@ -209,6 +218,8 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+	font-size: 20px;
+	line-height: 1.7;
 
     h2 {
         font-size: 32px;

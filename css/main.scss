@@ -6,16 +6,21 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #c3c3c3;
+$background-color: #3c3c3c;
+$green-color:      #c0ffe7;
+$yellow-color:    #fff6c0;
+$pink-color:      #ffc0e6;
+$blue-color:      #c0eaff;
+$purple-color:    #dcc0ff;
+$orange-color:    #fff0c0;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
