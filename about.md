@@ -4,4 +4,10 @@ title: 关于
 permalink: /about/
 ---
 
-This page is blank.
+这是一个很挫的网站。
+
+连评论的功能都没有。
+
+我应该加一个这玩意，<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+尽管不会有几个访客。
