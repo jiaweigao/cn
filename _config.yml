@@ -2,8 +2,8 @@
 title: 自说自话
 description: > # this means to ignore newlines until "baseurl:"
   无。
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/cn/" # the subpath of your site, e.g. /blog/
+url: "jiaweigao.com" # the base hostname & protocol for your site
 twitter_username: gaojiawei
 
 permalink: /:year/:month/:day/:title
