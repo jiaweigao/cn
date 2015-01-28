@@ -1,7 +1,6 @@
 # Site settings
 title: 自说自话
-description: > # this means to ignore newlines until "baseurl:"
-  我用默认模板我自豪。
+description: "我用默认模板我自豪。"
 #baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: gaojiawei
