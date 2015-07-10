@@ -2,8 +2,7 @@
 title: 自说自话
 description: ""
 #baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-twitter_username: gaojiawei
+url: "http://cn.jiaweigao.com/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title
 
